@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOSingleResponsive", "NOSingleResponsive.csproj", "{BAD44CF6-8FE0-45B7-99F3-7AC8FDEA3F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD44CF6-8FE0-45B7-99F3-7AC8FDEA3F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD44CF6-8FE0-45B7-99F3-7AC8FDEA3F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD44CF6-8FE0-45B7-99F3-7AC8FDEA3F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD44CF6-8FE0-45B7-99F3-7AC8FDEA3F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

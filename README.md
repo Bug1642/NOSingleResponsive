@@ -1,2 +1,2 @@
 # NOSingleResponsive
- No Single Responsive
+ No Single Responsive Principle Example
